@@ -20,6 +20,7 @@ public class Main extends Application {
 		}
 	}
 	
+	//fix
 	public static void main(String[] args) {
 		launch(args);
 	}

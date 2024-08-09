@@ -1,6 +1,13 @@
 package application;
 	
 import javafx.application.Application;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Random;
+import java.util.Set;
+import java.util.HashSet;
+import java.util.function.Predicate;
+import java.util.Arrays;
 import javafx.stage.Stage;
 import javafx.scene.Scene;
 import javafx.scene.layout.BorderPane;
@@ -20,8 +27,8 @@ public class Main extends Application {
 		}
 	}
 	
-	//1
 	public static void main(String[] args) {
+		
 		launch(args);
 	}
 }

@@ -107,7 +107,7 @@ public class Main extends Application {
 
 	                if (gridX >= 0 && gridX < WIDTH && gridY >= 0 && gridY < HEIGHT) {
 	                    if (grid2[gridX][gridY] != 0) {
-	                        return true; // Collision detected with an existing block
+	                        return true; 
 	                    }
 	                }
 	            }

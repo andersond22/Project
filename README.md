@@ -1,5 +1,5 @@
 # Overview
-A basic game of Tetris that incorporates the use of util, animation, stage, and scene elements of javafx. Random shapes known in Tetris are generated at the top of the board which then falls down at a rate of 500 milli seconds. 
+A basic game of Tetris that incorporates the use of util, animation, stage, and scene elements of javafx. Random shapes known in Tetris are generated at the top of the board which then falls down at a rate of 500 milli seconds. As each row clears, a score of 100 is added to the player's scoreboard. Functions are added to the pieces that allow it to rotate, drop faster, or move left and right. When the pieces reach the top, a prompt will tell the player that the game is over.
 # Technologies Used
 Java | JavaFX | Eclipse
 # Planning

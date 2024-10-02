@@ -14,7 +14,6 @@ import javafx.scene.text.Text;
 import javafx.scene.layout.GridPane;
 
 
-
 public class Main extends Application {
 	
 	 private static final int BLOCK_SIZE = 30; // Size of each block
